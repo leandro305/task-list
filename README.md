@@ -10,4 +10,4 @@ No diretório do projeto, você pode executar:
 
 ![reactjs password generator](./assets/images/tela-inicial.png)
 
-Aplicativo Frontend desenvolvido em React de Lista de Tarefas permite a interação com o backend por meio das operações "CRUD", a imagem de sua tela inicial pode ser vista acima!
+Aplicativo Frontend desenvolvido em React sobre Lista de Tarefas que permite a interação com o backend por meio das operações "CRUD", a imagem de sua tela inicial pode ser vista acima!
