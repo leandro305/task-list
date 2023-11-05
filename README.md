@@ -1,8 +1,8 @@
-# Primeiros passos com o aplicativo Task-List
+### Primeiros passos com o aplicativo Task-List
 
 Este projeto foi inicializado com [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts Disponíveis
+### Scripts Disponíveis
 
 No diretório do projeto, você pode executar:
 
